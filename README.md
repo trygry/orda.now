@@ -1,2 +1,2 @@
-# orda.now
+# orda-now
 News
